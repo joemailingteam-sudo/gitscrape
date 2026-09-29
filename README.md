@@ -1,4 +1,4 @@
-# Jumia Egypt Product Scraper
+# Jumia  Product Scraper
 
 A Python web scraper that uses **Playwright** to collect product information from Jumia  search pages.
 
